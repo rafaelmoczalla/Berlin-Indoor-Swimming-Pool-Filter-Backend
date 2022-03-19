@@ -5,6 +5,9 @@
   "main": "out/Server.js",
   "author": "Rafael Moczalla",
   "license": "Private",
+  "engines": {
+    "yarn": "1.22.17"
+  },
   "scripts": {
     "build": "tsc",
     "start": "tsc && node ."
